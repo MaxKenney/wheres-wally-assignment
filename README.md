@@ -5,7 +5,7 @@ An assignment I completed in my second year of Computer Science utilising C++. H
 
 ![Screenshot 2020-10-19 at 12 44 15](https://user-images.githubusercontent.com/45488907/96446407-46659480-1209-11eb-922e-f5155fe13fc5.png)
 
-After processing the image using the search algorithm 'Nearest Neighbour Search', Wally has a box placed around him (top left of the image).
+After processing the image using the search algorithm 'Nearest Neighbour Search' Wally has a box placed around him (top left of the image).
 
 ## What I learned From This Project
 
